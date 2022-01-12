@@ -1,0 +1,21 @@
+﻿@model Florent_Viagens.Models.Destino
+
+@{
+    ViewData["Title"] = "Details";
+}
+<div>
+    <h4 class="text-success text-center mt-5">Destino</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2 text-success">
+            @Html.DisplayNameFor(model => model.Descricao)
+        </dt>
+        <dd class = "col-sm-10 text-success">
+            @Html.DisplayFor(model => model.Descricao)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a class="text-white btn btn-success"  asp-action="Edit" asp-route-id="@Model.Id">Editar</a> |
+    <a class="text-white btn btn-success"  asp-action="Index">Voltar</a>
+</div>

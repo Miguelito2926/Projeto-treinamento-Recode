@@ -1,0 +1,8 @@
+-
+Funcionamento Geral da aplicação
+
+Esse projeto não tem o intuito de mostrar de fato um site de vendas de uma agencia de viagem, e sim para mostrar os conceitos aprendidos
+até o momento no curso, levando em consideração o prazo de entrega está é uma aplicação simples que cadastra alguns dados e restorna os mesmo usando um banco de dados.
+Nessa aplicação usamos as abas cadastrar usuários / cadastrar destino e por ultimo agendar a data da viagem.
+Ha algumas abas que não consta no banco de dados, como as abas promoção e Contatos.
+ 

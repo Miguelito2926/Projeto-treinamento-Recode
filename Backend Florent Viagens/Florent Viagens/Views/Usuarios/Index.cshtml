@@ -1,0 +1,54 @@
+﻿@model IEnumerable<Florent_Viagens.Models.Usuario>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+
+<p >
+    <a class="container-sm text-white btn btn-success" asp-action="Create">Cadastre-se</a>
+</p>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <p class="text-success text-center mt-5"> Usuários Cadastrados</p>
+
+            <th class="text-success">
+                @Html.DisplayNameFor(model => model.Nome)
+            </th>
+            <th class="text-success">
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th class="text-success">
+                @Html.DisplayNameFor(model => model.Cpf)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+
+
+
+@foreach (var item in Model) {
+        <tr>
+            <td class="text-success">
+                @Html.DisplayFor(modelItem => item.Nome)
+            </td>
+            <td class="text-success">
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td class="text-success">
+                @Html.DisplayFor(modelItem => item.Cpf)
+            </td>
+            <td>
+                <a class="text-success" asp-action="Edit" asp-route-id="@item.Id">Editar</a> |
+                <a class="text-success" asp-action="Details" asp-route-id="@item.Id">Detalhes</a> |
+                <a class="text-success" asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

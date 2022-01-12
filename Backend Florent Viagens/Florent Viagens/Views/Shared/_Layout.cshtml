@@ -1,0 +1,66 @@
+﻿
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Florent_Viagens</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-success border-bottom box-shadow mb-4">
+            <div class="container">
+                <a class="navbar-brand text-white" asp-area="" asp-controller="Home" asp-action="Index">Florent Viagens</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link  text-white" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link  text-white" asp-area="" asp-controller="Promocao" asp-action="Index">Promoções</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link  text-white" asp-area="" asp-controller="Usuarios" asp-action="Index">Cadastrar</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link  text-white" asp-area="" asp-controller="Destinos" asp-action="Index">Destinos</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link  text-white" asp-area="" asp-controller="DataViagem" asp-action="Index">Data da Viagem </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link  text-white" asp-area="" asp-controller="Contato" asp-action="Index">Contatos</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+
+
+    </div>
+
+    <footer class="border-top footer text-muted">
+
+
+        <div class="container-fluid text-center text-success">
+            &copy; 2021 - Florent Viagens  <a asp-area="" asp-controller="Home" asp-action=""></a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

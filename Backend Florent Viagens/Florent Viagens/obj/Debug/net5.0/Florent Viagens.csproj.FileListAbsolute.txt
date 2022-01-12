@@ -1,0 +1,1338 @@
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\appsettings.json
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Florent Viagens.exe
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Florent Viagens.deps.json
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Florent Viagens.runtimeconfig.json
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Florent Viagens.runtimeconfig.dev.json
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Florent Viagens.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\ref\Florent Viagens.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Florent Viagens.pdb
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\mscorlib.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\netstandard.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.AppContext.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Buffers.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Collections.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.ComponentModel.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Configuration.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Console.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Core.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Data.Common.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Data.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Drawing.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Globalization.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.IO.Compression.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.IO.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Linq.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Memory.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Net.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Net.Http.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Net.Mail.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Net.Ping.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Net.Requests.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Net.Security.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Numerics.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.ObjectModel.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Reflection.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Runtime.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Security.Claims.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Security.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Security.Principal.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Text.Json.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Threading.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Transactions.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.ValueTuple.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Web.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Windows.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Xml.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\WindowsBase.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Florent Viagens.Views.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Florent Viagens.Views.pdb
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Florent Viagens.csproj.AssemblyReference.cache
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Florent Viagens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Florent Viagens.AssemblyInfoInputs.cache
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Florent Viagens.AssemblyInfo.cs
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Florent Viagens.csproj.CoreCompileInputs.cache
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Florent Viagens.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Florent Viagens.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Florent Viagens.RazorAssemblyInfo.cache
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Florent Viagens.RazorAssemblyInfo.cs
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\obj\Debug\net5.0\staticwebassets\Florent Viagens.StaticWebAssets.Manifest.cache
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\obj\Debug\net5.0\staticwebassets\Florent Viagens.StaticWebAssets.xml
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\obj\Debug\net5.0\scopedcss\bundle\Florent Viagens.styles.css
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Florent Viagens.TagHelpers.input.cache
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Florent Viagens.TagHelpers.output.cache
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Florent Viagens.RazorCoreGenerate.cache
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Florent Viagens.RazorTargetAssemblyInfo.cache
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Florent Viagens.RazorTargetAssemblyInfo.cs
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Florent Viagens.Views.pdb
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Florent Viagens.csproj.CopyComplete
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Florent Viagens.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\obj\Debug\net5.0\ref\Florent Viagens.dll
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Florent Viagens.pdb
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Florent Viagens.genruntimeconfig.cache
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Razor\Views\Usuarios\Create.cshtml.g.cs
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Razor\Views\Usuarios\Delete.cshtml.g.cs
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Razor\Views\Usuarios\Details.cshtml.g.cs
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Razor\Views\Usuarios\Edit.cshtml.g.cs
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Razor\Views\Usuarios\Index.cshtml.g.cs
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Razor\Views\DataViagem\Create.cshtml.g.cs
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Razor\Views\DataViagem\Delete.cshtml.g.cs
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Razor\Views\DataViagem\Details.cshtml.g.cs
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Razor\Views\DataViagem\Edit.cshtml.g.cs
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Razor\Views\DataViagem\Index.cshtml.g.cs
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Razor\Views\Destinos\Create.cshtml.g.cs
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Razor\Views\Destinos\Delete.cshtml.g.cs
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Razor\Views\Destinos\Details.cshtml.g.cs
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Razor\Views\Destinos\Edit.cshtml.g.cs
+C:\Users\Nextbox\Desktop\Projeto Ednaldo tavares\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Razor\Views\Destinos\Index.cshtml.g.cs
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\appsettings.Development.json
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\appsettings.json
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Florent Viagens.exe
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Florent Viagens.deps.json
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Florent Viagens.runtimeconfig.json
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Florent Viagens.runtimeconfig.dev.json
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Florent Viagens.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\ref\Florent Viagens.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Florent Viagens.pdb
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Identity.Core.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\mscorlib.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\netstandard.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.AppContext.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Buffers.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Collections.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.ComponentModel.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Configuration.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Console.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Core.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Data.Common.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Data.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Drawing.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Globalization.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.IO.Compression.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.IO.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Linq.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Memory.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Net.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Net.Http.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Net.Mail.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Net.Ping.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Net.Requests.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Net.Security.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Numerics.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.ObjectModel.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Reflection.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Runtime.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Security.Claims.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Security.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Security.Principal.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Text.Json.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Threading.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Transactions.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.ValueTuple.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Web.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Windows.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Xml.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\WindowsBase.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Florent Viagens.Views.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Florent Viagens.Views.pdb
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Humanizer.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Florent Viagens.csproj.AssemblyReference.cache
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Florent Viagens.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Florent Viagens.AssemblyInfoInputs.cache
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Florent Viagens.AssemblyInfo.cs
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Florent Viagens.csproj.CoreCompileInputs.cache
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Florent Viagens.MvcApplicationPartsAssemblyInfo.cs
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Florent Viagens.MvcApplicationPartsAssemblyInfo.cache
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Florent Viagens.RazorAssemblyInfo.cache
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Florent Viagens.RazorAssemblyInfo.cs
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\obj\Debug\net5.0\staticwebassets\Florent Viagens.StaticWebAssets.Manifest.cache
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\obj\Debug\net5.0\staticwebassets\Florent Viagens.StaticWebAssets.xml
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\obj\Debug\net5.0\scopedcss\bundle\Florent Viagens.styles.css
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Florent Viagens.TagHelpers.input.cache
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Florent Viagens.TagHelpers.output.cache
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Florent Viagens.RazorCoreGenerate.cache
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Razor\Views\DataViagem\Create.cshtml.g.cs
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Razor\Views\DataViagem\Delete.cshtml.g.cs
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Razor\Views\DataViagem\Details.cshtml.g.cs
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Razor\Views\DataViagem\Edit.cshtml.g.cs
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Razor\Views\DataViagem\Index.cshtml.g.cs
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Razor\Views\Destinos\Create.cshtml.g.cs
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Razor\Views\Destinos\Delete.cshtml.g.cs
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Razor\Views\Destinos\Details.cshtml.g.cs
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Razor\Views\Destinos\Edit.cshtml.g.cs
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Razor\Views\Destinos\Index.cshtml.g.cs
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Razor\Views\Usuarios\Create.cshtml.g.cs
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Razor\Views\Usuarios\Delete.cshtml.g.cs
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Razor\Views\Usuarios\Details.cshtml.g.cs
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Razor\Views\Usuarios\Edit.cshtml.g.cs
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Razor\Views\Usuarios\Index.cshtml.g.cs
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Florent Viagens.RazorTargetAssemblyInfo.cache
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Florent Viagens.RazorTargetAssemblyInfo.cs
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Florent Viagens.Views.pdb
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Florent Viagens.csproj.CopyComplete
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Florent Viagens.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\obj\Debug\net5.0\ref\Florent Viagens.dll
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Florent Viagens.pdb
+D:\Projeto Ednaldo tavares backup 17-12\Florent.backup\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Florent Viagens.genruntimeconfig.cache
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Florent Viagens.csproj.AssemblyReference.cache
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Florent Viagens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Florent Viagens.AssemblyInfoInputs.cache
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Florent Viagens.AssemblyInfo.cs
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Florent Viagens.csproj.CoreCompileInputs.cache
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Florent Viagens.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Florent Viagens.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Florent Viagens.RazorAssemblyInfo.cache
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Florent Viagens.RazorAssemblyInfo.cs
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\obj\Debug\net5.0\staticwebassets\Florent Viagens.StaticWebAssets.Manifest.cache
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\obj\Debug\net5.0\staticwebassets\Florent Viagens.StaticWebAssets.xml
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\obj\Debug\net5.0\scopedcss\bundle\Florent Viagens.styles.css
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Florent Viagens.TagHelpers.input.cache
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Florent Viagens.TagHelpers.output.cache
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Florent Viagens.RazorCoreGenerate.cache
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Florent Viagens.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\obj\Debug\net5.0\ref\Florent Viagens.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Florent Viagens.pdb
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\appsettings.json
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Florent Viagens.exe
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Florent Viagens.deps.json
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Florent Viagens.runtimeconfig.json
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Florent Viagens.runtimeconfig.dev.json
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Florent Viagens.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\ref\Florent Viagens.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Florent Viagens.pdb
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\mscorlib.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\netstandard.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.AppContext.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Buffers.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Collections.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.ComponentModel.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Configuration.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Console.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Core.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Data.Common.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Data.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Drawing.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Globalization.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.IO.Compression.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.IO.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Linq.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Memory.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Net.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Net.Http.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Net.Mail.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Net.Ping.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Net.Requests.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Net.Security.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Numerics.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.ObjectModel.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Reflection.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Runtime.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Security.Claims.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Security.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Security.Principal.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Text.Json.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Threading.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Transactions.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.ValueTuple.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Web.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Windows.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Xml.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\refs\WindowsBase.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Florent Viagens.Views.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Florent Viagens.Views.pdb
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Razor\Views\DataViagem\Create.cshtml.g.cs
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Razor\Views\DataViagem\Delete.cshtml.g.cs
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Razor\Views\DataViagem\Details.cshtml.g.cs
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Razor\Views\DataViagem\Edit.cshtml.g.cs
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Razor\Views\DataViagem\Index.cshtml.g.cs
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Razor\Views\Destinos\Create.cshtml.g.cs
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Razor\Views\Destinos\Delete.cshtml.g.cs
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Razor\Views\Destinos\Details.cshtml.g.cs
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Razor\Views\Destinos\Edit.cshtml.g.cs
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Razor\Views\Destinos\Index.cshtml.g.cs
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Razor\Views\Promocao\Index.cshtml.g.cs
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Razor\Views\Usuarios\Create.cshtml.g.cs
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Razor\Views\Usuarios\Delete.cshtml.g.cs
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Razor\Views\Usuarios\Details.cshtml.g.cs
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Razor\Views\Usuarios\Edit.cshtml.g.cs
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Razor\Views\Usuarios\Index.cshtml.g.cs
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Florent Viagens.RazorTargetAssemblyInfo.cache
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Florent Viagens.RazorTargetAssemblyInfo.cs
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Florent Viagens.Views.pdb
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Florent Viagens.csproj.CopyComplete
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Florent Viagens.genruntimeconfig.cache
+C:\Users\Nextbox\Desktop\Ednaldo\Florent Viagens\Florent Viagens\obj\Debug\net5.0\Razor\Views\Contato\Index.cshtml.g.cs

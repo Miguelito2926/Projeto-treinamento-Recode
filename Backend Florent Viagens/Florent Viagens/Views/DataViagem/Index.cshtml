@@ -1,0 +1,48 @@
+﻿@model IEnumerable<Florent_Viagens.Models.DataViagem>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+
+<p>
+    <a class="container-sm text-white btn btn-success" asp-action="Create">Agendar Data</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <p class="text-success text-center mt-5">Viagens agendadas</p>
+            <th class="text-success">
+                @Html.DisplayNameFor(model => model.Data)
+            </th>
+            <th class="text-success">
+                @Html.DisplayNameFor(model => model.Usuario)
+            </th>
+            <th class="text-success">
+                @Html.DisplayNameFor(model => model.Destino)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td class="text-success">
+                @Html.DisplayFor(modelItem => item.Data)
+            </td>
+            <td class="text-success">
+                @Html.DisplayFor(modelItem => item.Usuario.Nome)
+            </td>
+            <td class="text-success">
+                @Html.DisplayFor(modelItem => item.Destino.Descricao)
+            </td>
+            <td>
+                <a class="text-success" asp-action="Edit" asp-route-id="@item.Id">Editar</a> |
+                <a class="text-success" asp-action="Details" asp-route-id="@item.Id">Detalhes</a> |
+                <a class="text-success" asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
